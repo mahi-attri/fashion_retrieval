@@ -1,0 +1,97 @@
+{
+  "colors": [
+    "black",
+    "white",
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "orange",
+    "pink",
+    "purple",
+    "brown",
+    "beige",
+    "gray",
+    "grey",
+    "navy",
+    "maroon",
+    "teal",
+    "turquoise",
+    "cream",
+    "gold",
+    "silver"
+  ],
+  "clothing": [
+    "t-shirt",
+    "shirt",
+    "button-down shirt",
+    "blouse",
+    "hoodie",
+    "sweater",
+    "jacket",
+    "coat",
+    "raincoat",
+    "blazer",
+    "suit",
+    "dress",
+    "skirt",
+    "jeans",
+    "pants",
+    "trousers",
+    "shorts",
+    "tie",
+    "sneakers",
+    "shoes",
+    "boots",
+    "heels"
+  ],
+  "environments": [
+    "modern office",
+    "office interior",
+    "office",
+    "urban street",
+    "city street",
+    "street",
+    "park",
+    "park bench",
+    "home",
+    "living room",
+    "indoors",
+    "outdoors",
+    "cafe",
+    "mall"
+  ],
+  "styles": [
+    "formal",
+    "business",
+    "professional",
+    "business casual",
+    "smart casual",
+    "casual",
+    "streetwear",
+    "weekend",
+    "athleisure"
+  ],
+  "templates": {
+    "color": [
+      "a photo of a person wearing a {} outfit",
+      "a person in {} clothing",
+      "a {} colored garment"
+    ],
+    "clothing": [
+      "a photo of a person wearing a {}",
+      "a person in a {}",
+      "a {} garment"
+    ],
+    "environment": [
+      "a photo taken inside a {}",
+      "a person in a {}",
+      "a scene in a {}"
+    ],
+    "style": [
+      "a photo of {} style outfit",
+      "a person dressed in {} fashion",
+      "{} attire"
+    ]
+  }
+}
